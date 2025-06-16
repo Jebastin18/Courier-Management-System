@@ -123,7 +123,7 @@ Clone or download the project
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/courier-management-system.git
+git clone https://github.com/Jebastin18/Courier-Management-System.git
 Import the Database
 
 Use phpMyAdmin to import courier_db.sql into a new MySQL database, e.g., courier_db.
